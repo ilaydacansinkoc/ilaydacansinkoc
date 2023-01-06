@@ -13,10 +13,6 @@
 </p>
 
 
-<h2 align="center">🐍 eating my contributions 😱</h2>
-<p align="center">
-<img alt="snake eating my contribution" src="https://github.com/ilaydacansinkoc/ilaydacansinkoc/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 
 <!--
@@ -31,6 +27,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h2 align="center">🐍 eating my contributions 😱</h2>
+<p align="center">
+<img alt="snake eating my contribution" src="https://github.com/ilaydacansinkoc/ilaydacansinkoc/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+
 -->
 
 
