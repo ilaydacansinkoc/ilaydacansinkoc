@@ -12,6 +12,8 @@
   </a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ilaydacansinkoc&label=Profile%20views&color=b61ad5&style=plastic" alt="ilaydacansinkoc" /> </p>
+
 
 
 
