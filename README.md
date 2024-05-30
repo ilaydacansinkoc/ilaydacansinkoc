@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👩‍🎓 I'm currently studying my Masters in Informatics at <a href="https://www.in.tum.de">Technical University of Munich</a>
-- 👩‍💻 I’m currently working as a Frontend Engineer (Working Student) at <a href="https://www.holidu.com/"> Holidu & Bookiply </a>
+- 👩‍💻 I’m currently working as a Frontend Engineer (Working Student) at <a href="https://www.holidu.com/"> Holidu </a>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br>
